@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mnatakanijiiteajesasa
+- 👋 Hi, I’m Diggy
 - 👀 I’m interested in python program development
-- 🌱 I’m currently learning how to create applications
+- 🌱 I’m currently learning how to create applications and websites
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ...@kenyanroux on twitter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
