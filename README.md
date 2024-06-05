@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diggy
-- 👀 I’m interested in python program development
-- 🌱 I’m currently learning how to create applications and websites
+- 👀 I’m a back-end python developer
+- 🌱 I’m currently making websites for fun
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...@kenyanroux on twitter
 - 😄 Pronouns: ...
