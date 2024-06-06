@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diggy
 - 👀 I’m a back-end python developer
-- 🌱 I’m currently making websites for fun
+- 🌱 I’m currently making websites for fun there are many backend repositories with no front end if interested in any of them reach out so that i can add you as a collaborator
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...@kenyanroux on twitter
 - 😄 Pronouns: ...
