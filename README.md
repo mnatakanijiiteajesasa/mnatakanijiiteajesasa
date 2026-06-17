@@ -23,9 +23,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [Project One](https://github.com/mnatakanijiiteajesasa) | Short description of what this project does |
-| [Project Two](https://github.com/mnatakanijiiteajesasa) | Short description of what this project does |
-| [Project Three](https://github.com/mnatakanijiiteajesasa) | Short description of what this project does |
+| [Project One](https://github.com/mnatakanijiiteajesasa/chai-analytics) | Short description of what this project does |
+| [Project Two](https://github.com/mnatakanijiiteajesasa/mnemosyne) | Short description of what this project does |
+| [Project Three](https://github.com/mnatakanijiiteajesasa/Tapesa) | Short description of what this project does |
 
 ---
 
