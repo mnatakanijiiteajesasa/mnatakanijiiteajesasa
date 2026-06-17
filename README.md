@@ -23,9 +23,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [Chai Analytics](https://github.com/mnatakanijiiteajesasa/chai-analytics) | Short description of what this project does |
-| [Tapesa](https://github.com/mnatakanijiiteajesasa/mnemosyne) | Short description of what this project does |
-| [Mnemosyne](https://github.com/mnatakanijiiteajesasa/Tapesa) | Short description of what this project does |
+| [Chai Analytics](https://github.com/mnatakanijiiteajesasa/chai-analytics) | A machine learning analysis system for small and large scale tea farmers  |
+| [Tapesa](https://github.com/mnatakanijiiteajesasa/mnemosyne) | Facilitates M-Pesa transactions by phone taps against each other and PoS services |
+| [Mnemosyne](https://github.com/mnatakanijiiteajesasa/Tapesa) | A persistent memory agent based on Qwen |
 
 ---
 
