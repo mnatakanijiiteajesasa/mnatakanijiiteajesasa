@@ -12,7 +12,7 @@
 
 ## About Me
 
--  Student by day, indie developer by night
+-  Student by day, developer by night
 -  Currently learning and building in public
 -  I enjoy turning ideas into real projects
 -  Always exploring new tools and technologies
