@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm mnatakanijiiteajesasa 👋</h1>
+<h1 align="center">Hi there, I'm Newton 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&width=500&lines=Student+%26+Indie+Developer;Building+things+one+commit+at+a+time;Always+learning%2C+always+shipping" alt="Typing SVG" />
